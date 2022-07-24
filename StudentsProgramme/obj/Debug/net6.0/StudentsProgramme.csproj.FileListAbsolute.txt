@@ -1,0 +1,15 @@
+C:\Users\himanshu.patil\source\repos\StudentsProgramme\StudentsProgramme\bin\Debug\net6.0\StudentsProgramme.exe
+C:\Users\himanshu.patil\source\repos\StudentsProgramme\StudentsProgramme\bin\Debug\net6.0\StudentsProgramme.deps.json
+C:\Users\himanshu.patil\source\repos\StudentsProgramme\StudentsProgramme\bin\Debug\net6.0\StudentsProgramme.runtimeconfig.json
+C:\Users\himanshu.patil\source\repos\StudentsProgramme\StudentsProgramme\bin\Debug\net6.0\StudentsProgramme.dll
+C:\Users\himanshu.patil\source\repos\StudentsProgramme\StudentsProgramme\bin\Debug\net6.0\StudentsProgramme.pdb
+C:\Users\himanshu.patil\source\repos\StudentsProgramme\StudentsProgramme\obj\Debug\net6.0\StudentsProgramme.csproj.AssemblyReference.cache
+C:\Users\himanshu.patil\source\repos\StudentsProgramme\StudentsProgramme\obj\Debug\net6.0\StudentsProgramme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\himanshu.patil\source\repos\StudentsProgramme\StudentsProgramme\obj\Debug\net6.0\StudentsProgramme.AssemblyInfoInputs.cache
+C:\Users\himanshu.patil\source\repos\StudentsProgramme\StudentsProgramme\obj\Debug\net6.0\StudentsProgramme.AssemblyInfo.cs
+C:\Users\himanshu.patil\source\repos\StudentsProgramme\StudentsProgramme\obj\Debug\net6.0\StudentsProgramme.csproj.CoreCompileInputs.cache
+C:\Users\himanshu.patil\source\repos\StudentsProgramme\StudentsProgramme\obj\Debug\net6.0\StudentsProgramme.dll
+C:\Users\himanshu.patil\source\repos\StudentsProgramme\StudentsProgramme\obj\Debug\net6.0\refint\StudentsProgramme.dll
+C:\Users\himanshu.patil\source\repos\StudentsProgramme\StudentsProgramme\obj\Debug\net6.0\StudentsProgramme.pdb
+C:\Users\himanshu.patil\source\repos\StudentsProgramme\StudentsProgramme\obj\Debug\net6.0\StudentsProgramme.genruntimeconfig.cache
+C:\Users\himanshu.patil\source\repos\StudentsProgramme\StudentsProgramme\obj\Debug\net6.0\ref\StudentsProgramme.dll
